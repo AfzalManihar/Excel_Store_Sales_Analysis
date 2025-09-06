@@ -20,7 +20,8 @@ Using Microsoft Excel, this project demonstrates how raw sales data can be trans
 ## Dashboard  
 
 ---
-<img https://github.com/AfzalManihar/Excel_Store_Sales_Analysis/blob/main/Store_Analysis_final_look.png/>
+<img width="1325" height="743" src="https://github.com/AfzalManihar/Excel_Store_Sales_Analysis/blob/main/Store_Analysis_final_look.png" alt="Store Sales Dashboard"/>
+
 
 ---
 
