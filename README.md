@@ -32,7 +32,7 @@ Using Microsoft Excel, this project demonstrates how raw sales data can be trans
 - **Data Filters & Sorting**  
 - **Conditional Formatting**  
 - **Charts (Pie, Column, Bar)**
--  **Data Set Used:** [[CSV dataset](https://github.com/AfzalManihar/Excel_Store_Sales_Analysis/blob/main/PROJECT-Afzal%20Store%20Data%20Analysis.xlsx)]
+-  **Data Set Used:** [[CSV dataset](https://github.com/AfzalManihar/Excel_Store_Sales_Analysis/blob/main/Afzal%20store%20CSV%20Dataset.csv)]
 
 ---
 
