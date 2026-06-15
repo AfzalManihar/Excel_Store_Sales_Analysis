@@ -1,5 +1,5 @@
 # Store Sales Analysis with Excel 🛒
-## Introduction  
+## Introduction 
 
 The **Store Sales Analysis Project** focuses on analyzing sales data to uncover trends, customer behavior, and key insights that drive better business decisions.  
 Using Microsoft Excel, this project demonstrates how raw sales data can be transformed into meaningful reports and dashboards.  
