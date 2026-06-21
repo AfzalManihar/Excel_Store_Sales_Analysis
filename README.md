@@ -8,7 +8,7 @@ Using Microsoft Excel, this project demonstrates how raw sales data can be trans
 
 ## Key Insights Covered 📊  
 
-- **Sales vs Orders** – Visual comparison of total sales amount vs number of orders.  
+- **Sales vs Orders** – Visual comparison of total sales amount vs number of orders. 
 - **Men vs Women Analysis** – Gender-wise order value and frequency comparison.  
 - **Order Status Distribution** – Completed, Cancelled, Pending orders visualized.  
 - **Top 5 States** – Highest-performing states based on sales volume.  
