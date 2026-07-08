@@ -6,7 +6,7 @@ Using Microsoft Excel, this project demonstrates how raw sales data can be trans
 
 ---
 
-## Key Insights Covered 📊  
+## Key Insights Covered 📊   
 
 - **Sales vs Orders** – Visual comparison of total sales amount vs number of orders. 
 - **Men vs Women Analysis** – Gender-wise order value and frequency comparison.  
